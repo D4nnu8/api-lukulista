@@ -8,8 +8,7 @@ function arvoNumero(alaraja, ylaraja) {
 }
 
 
-]
-    
+
 app.get('/', function (req, res) {
     let numerolista = [
          arvoNumero(0,5),
